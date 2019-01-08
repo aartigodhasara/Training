@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world.
+=======
+this is file..
+>>>>>>> 30790a61c882e5a89a4f036adfe96259b4b58ab9
